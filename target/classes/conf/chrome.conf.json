@@ -1,0 +1,24 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "girjakahar_4kEVqO",
+  "key": "GWisE2vkz9cr2qDDg2nD",
+
+  "capabilities": {
+    "build": "browserstack-build-1",
+    "name": "single_test",
+    "browserstack.debug": "true",
+    "os": "Windows",
+    "browser_version": "92.0",
+    "browserstack.local": "false",
+    "browserstack.networkLogs": "true",
+    "browserstack.selenium_version": "3.141.59",
+    "browserstack.use_w3c": "true"
+    
+  },
+
+  "environments": {
+    "chrome": {
+      "browser": "chrome"
+    }
+  }
+}

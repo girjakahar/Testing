@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+<listener class-name="Utility.CustomListnere"/>
+</listeners>
+
+<test name="reg">  
+<parameter name="config" value="Safarisanity.conf.json"/>
+<parameter name="environment" value="Safari"/>
+<classes>  
+      <class name="crossbrowseraddtocart.DefaultCloudPillowProduct"/>
+      </classes>  
+</test> <!-- Test --> 
+</suite> <!-- Suite -->
