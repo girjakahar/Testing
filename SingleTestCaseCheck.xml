@@ -11,6 +11,8 @@
 <parameter name="environment" value="Safari"/>
 <classes>  
       <class name="crossbrowseraddtocart.DefaultCloudPillowProduct"/>
+      <class name="crossbrowseraddtocart.DefaultOriginalMattressProductCrossbrowser"/>
+     
       </classes>  
 </test> <!-- Test --> 
 </suite> <!-- Suite -->

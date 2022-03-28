@@ -35,6 +35,7 @@
             <suiteXmlFile>Sanitytestng.xml</suiteXmlFile>
             <suiteXmlFile>Regressiontestng.xml</suiteXmlFile>
             <suiteXmlFile>Important.xml</suiteXmlFile>
+            <suiteXmlFile>SingleTestCaseCheck.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
